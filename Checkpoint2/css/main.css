@@ -1,0 +1,66 @@
+#main_body 
+{
+    background-color: #2f375b;
+}
+
+li {
+    float: left;
+    font-size: 20px;
+  }
+  
+  a {
+    display: block;
+    padding: 10px;
+color: aliceblue;  }
+
+  li {
+    display: inline;
+  }
+  #navbar {
+
+        float: right;
+        width: 600px;
+        text-decoration: none;
+        display: inline;
+      
+  }
+
+  .img_logo {
+        width: 250px;
+  }
+
+  #logo {
+    width: 50px;
+        padding-left: 50px;
+  }
+  
+
+  a {
+    text-decoration: none;
+    font-family: reboto;
+  }
+
+  h1 {
+    color: cornsilk;
+    background-color: crimson;
+    font-family: reboto;
+  }
+h3 {
+  color: aliceblue;
+font-family: reboto;}
+
+.pform
+{
+  color: aliceblue;
+}
+
+.label{
+  color: aliceblue;
+}
+
+
+#footer{
+  color: aliceblue;
+  padding-block: 50px;
+}
+  
